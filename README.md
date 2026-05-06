@@ -41,8 +41,7 @@ class Erika:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zerikazz&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=zerikazz&theme=tokyonight-duo&border_radius=5&locale=pt_BR)](https://git.io/streak-stats)
 </div>
 
 ---
